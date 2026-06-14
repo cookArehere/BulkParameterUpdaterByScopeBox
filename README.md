@@ -33,6 +33,4 @@ The script processes data through a 5-input Python node:
 
 The core logic uses a highly optimized Revit API approach (`Autodesk.Revit.DB.Outline` and `Outline.Contains`) which avoids heavy Dynamo geometry overhead and executes in seconds.
 
-## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
